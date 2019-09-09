@@ -1,0 +1,8 @@
+---
+layout: post
+title: "This is a set up."
+date: 2019-09-09 11:00:00 -500
+categories: setup
+---
+
+This is a set up.
