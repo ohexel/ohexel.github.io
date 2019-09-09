@@ -1,1 +1,10 @@
-theme: jekyll-theme-minimal
+title: Ole Hexel's homepage
+description:
+email: ole [period] hexel [at] u [full stop] northwestern [dot] edu
+twitter_username: @olhxl
+github_username: ohexel
+#theme: jekyll-theme-minimal
+theme: minima
+plugins: 
+    - jekyll-feed
+
