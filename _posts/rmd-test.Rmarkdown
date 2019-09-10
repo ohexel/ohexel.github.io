@@ -1,0 +1,16 @@
+---
+layout: post
+title: Rmd test
+date: 2019-09-10 11:00:00 -6000
+categories: test
+---
+
+This is a test.
+
+```{r}
+data(mtcars)
+plot(mtcars$mpg, mtcars$cyl
+```
+
+Do I look pretty?
+
