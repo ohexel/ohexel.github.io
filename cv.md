@@ -22,8 +22,8 @@ Aschauer, Lucia, Aurélie Cachera, Jawad Daheur, Hélène Floréa, Elisabeth Ham
 
 _General public_
 
-Quillian, Lincoln, Devah Pager, Arnfinn Midtbøen, **Ole Hexel**. 2017. "Hiring
-Discrimination Against Black Americans Hasn’t Declined in 25 Years." [_The Harvard Business Review_](https://hbr.org/2017/10/hiring-discrimination-against-black-americans-hasnt-declined-in-25-years)  October 11, 2017.  
+Quillian, Lincoln, Devah Pager, Arnfinn Midtbøen, **Ole Hexel**. 2017. ["Hiring
+Discrimination Against Black Americans Hasn’t Declined in 25 Years."](https://hbr.org/2017/10/hiring-discrimination-against-black-americans-hasnt-declined-in-25-years) _The Harvard Business Review_  October 11, 2017.  
 
 Summarizes and comments on results of our 2017 PNAS paper
 
