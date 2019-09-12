@@ -4,6 +4,8 @@ title: CV
 permalink: /CV/
 ---
 
+[CV](./files/Hexel_cv_20190901.pdf)
+
 Ph.D. candidate in sociology at [Northwestern University](https://www.sociology.northwestern.edu/)  and the [Observatoire du changement social](https://www.sciencespo.fr/osc/en) at [Sciences Po Paris](https://www.sciencespo.fr/en).
 
 ## Publications
@@ -24,3 +26,20 @@ Quillian, Lincoln, Devah Pager, Arnfinn Midtbøen, **Ole Hexel**. 2017. "Hiring
 Discrimination Against Black Americans Hasn’t Declined in 25 Years." [_The Harvard Business Review_](https://hbr.org/2017/10/hiring-discrimination-against-black-americans-hasnt-declined-in-25-years)  October 11, 2017.  
 
 Summarizes and comments on results of our 2017 PNAS paper
+
+## Teaching
+
+_Instructor_
+
+- Social Problems, Northwestern University (Spring 2019)
+- Sociological Analysis, Northwestern University (Winter 2019)
+
+_Teaching assistant_
+
+- Population Dynamics, Northwestern University, Prof. Christine Percheski
+(Spring 2019)
+- Law and Society, Northwestern University, Prof. Joanna Grisinger (Fall 2018)
+- Introduction to Sociology (in French), Sciences Po Paris, Prof. Pierre François
+(Winter 2018, Winter 2013)
+- Urban Conflict and Social Change, Sciences Po Paris, Prof. Tommaso Vitale
+(Winter 2013)
