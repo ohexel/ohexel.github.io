@@ -12,9 +12,9 @@ Ph.D. candidate in sociology at [Northwestern University](https://www.sociology.
 
 _Peer-reviewed_
 
-Lincoln Quillian, Devah Pager, Anthony Heath, Arnfinn H. Midtbøen, Fenella Fleischmann, **Ole Hexel**. 2019. "Do Some Countries Discriminate More than Others? Evidence from 97 Field Experiments of Racial Discrimination in Hiring" [_Sociological Science_](https://www.sociologicalscience.com/articles-v6-18-467/), 6: 467-496.
+Lincoln Quillian, Devah Pager, Anthony Heath, Arnfinn H. Midtbøen, Fenella Fleischmann, **Ole Hexel**. 2019. ["Do Some Countries Discriminate More than Others? Evidence from 97 Field Experiments of Racial Discrimination in Hiring,"](https://www.sociologicalscience.com/articles-v6-18-467/) _Sociological Science_, 6: 467-496.
 
-Lincoln Quillian, Devah Pager, **Ole Hexel**, Arnfinn H. Midtbøen. 2017. "Meta-analysis of field experiments shows no change in racial discrimination in hiring over time." [_Proceedings of the National Academy of Science_](https://doi.org/10.1073/pnas.1706255114), vol. 114, no. 41, 10870-10875.
+Lincoln Quillian, Devah Pager, **Ole Hexel**, Arnfinn H. Midtbøen. 2017. ["Meta-analysis of field experiments shows no change in racial discrimination in hiring over time."](https://doi.org/10.1073/pnas.1706255114) _Proceedings of the National Academy of Science_, vol. 114, no. 41, 10870-10875.
 
 _Edited_
 
