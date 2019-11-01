@@ -7,4 +7,7 @@ github_username: ohexel
 theme: minima
 plugins: 
     - jekyll-feed
-
+    - jekyll-relative-links
+relative_links:
+  enabled:     true
+  collections: true
