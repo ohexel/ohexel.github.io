@@ -34,7 +34,9 @@ temp_theme <- theme_bw()+
 theme_set(temp_theme)
 ```
 
-Then we get the temperatures. The DWD data comes in zipped .txt files. For some reason, they use `;` as the separator and `.` as the decimal point, so neither `read.csv` nor `read.csv2` will work with default parameters. Note too that the DWD website proposes a "current" and a "historical" dataset for every weather station. I'm not sure whether this is always the case, but for the weather station that I chose, the two overlapped in time.
+Then we get the temperatures. "Now wait a minute!," you say. "What does the German Meteorological Service have to do with Chicago's weather." You got me. This is kind of a reverse bait-and-switch. A bait-and-switch-and-backswitch. Bear with me.
+
+The DWD data comes in zipped .txt files. For some reason, they use `;` as the separator and `.` as the decimal point, so neither `read.csv` nor `read.csv2` will work with default parameters. Note too that the DWD website proposes a "current" and a "historical" dataset for every weather station. I'm not sure whether this is always the case, but for the weather station that I chose, the two overlapped in time.
 
 ``` r
 file01 <- "../data/produkt_klima_tag_19470101_20181231_04271.txt"

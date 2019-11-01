@@ -4,7 +4,7 @@ title: CV
 permalink: /CV/
 ---
 
-[CV](./files/Hexel_cv_20190901.pdf)
+[Full CV](./files/Hexel_cv_20190901.pdf)
 
 Ph.D. candidate in sociology at [Northwestern University](https://www.sociology.northwestern.edu/)  and the [Observatoire du changement social](https://www.sciencespo.fr/osc/en) at [Sciences Po Paris](https://www.sciencespo.fr/en).
 
