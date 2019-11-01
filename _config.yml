@@ -3,7 +3,7 @@ description: Ph.D. candidate in sociology at Northwestern U and Sciences Po Pari
 email: firstname [dot] lastname [at] u [dot] northwestern [dot] edu [dot] baleine
 twitter_username: olhxl
 github_username: ohexel
-#theme: jekyll-theme-minimal
+baseurl: "/"
 theme: minima
 plugins: 
     - jekyll-feed

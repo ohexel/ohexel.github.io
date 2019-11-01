@@ -6,7 +6,7 @@ Inspired by [this](https://twitter.com/CedScherer/status/1170674809983905792) an
 
 [Bradley Boehmke](https://twitter.com/bradleyboehmke) elaborated on a graph by Edward Tufte and came up with this:
 
-![Dayton's Weather]({{site.baseurl}}/files/boehmke.png)
+![Dayton's Weather](../files/boehmke.png)
 
 He describes his workflow [here](https://rpubs.com/bradleyboehmke/weather_graphic).
 
@@ -221,4 +221,4 @@ ggsave(plot = last_plot(), filename = "../files/chi-temperature-2018.png",
        width = unit(9, "inches"), height = unit(4, "inches"), dpi = 600)
 ```
 
-![Chicago Weather 2018]({{site.baseurl}}/files/chi-temperature-2018.png)
+![Chicago Weather 2018](../files/chi-temperature-2018.png)
