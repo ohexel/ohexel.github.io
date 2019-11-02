@@ -12,11 +12,7 @@ He describes his workflow [here](https://rpubs.com/bradleyboehmke/weather_graphi
 
 Initially, I just wanted to see whether I could replicate the graphic. In doing so, a number of technical and aesthetic choices/problems came up that I want to discuss. Most importantly, I tried to stick as much as possible to base R, except for `ggplot`. Hence the post.
 
-But first, here is the final result. 
-
-![Chicago Weather 2018](../files/chi-temperature-2018.png)
-
-Let's begin. We start out by defining a minimalist theme.
+We start out by defining a minimalist theme.
 
 ``` r
 library(ggplot2)
@@ -171,7 +167,7 @@ p <- ggplot() +
 Add title and, almost more importantly, annotations. This is where we label the mini-legend/plot within the plot. I'm moderately happy with this solution. Too much manual fine-tuning. For now, all the parameters are hand-tuned and depend on the size and ratio of the output graphic.
 
 ``` r
-p + ggtitle("Chicago's Weather in 2019") +
+p + ggtitle("Chicago's Weather in 2018") +
     labs(caption = "Visualization: @olhxl | Original idea: @bradleyboehmke | Data: Dayton Daily Temperature Archive") +
     annotate("segment", x = 102, xend = 105, y = 22, yend = 28, col = "blue3") +
     annotate("text", x = 120, y = 20,
@@ -224,3 +220,5 @@ And save.
 ggsave(plot = last_plot(), filename = "../files/chi-temperature-2018.png", 
        width = unit(9, "inches"), height = unit(4, "inches"), dpi = 600)
 ```
+
+![Chicago Weather 2018](../files/chi-temperature-2018.png)
