@@ -9,4 +9,4 @@ I use the [Survey of Ageing, Health and Retirement in Europe](http://www.share-p
 
 I also collaborated on a meta-analysis of field experiments of racial discrimination in hiring. We [found](https://www.pnas.org/content/114/41/10870) that discrimination against African-Americans in the United States has not changed since 1990. We also compared discrimination across nine [countries](https://www.sociologicalscience.com/articles-v6-18-467/). We found evidence for discrimination in all countries and against five different minority groups.
 
-Bibliographic list of studies, code, and data for the meta-analysis [here](https://sites.northwestern.edu/dmap/).
+Code, data, and bibliographic list of studies for the meta-analysis [here](https://sites.northwestern.edu/dmap/).
