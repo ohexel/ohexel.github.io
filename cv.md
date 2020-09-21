@@ -6,7 +6,9 @@ permalink: /CV/
 
 [Full CV](./files/Hexel_cv_20190901.pdf)
 
-Ph.D. candidate in sociology at [Northwestern University](https://www.sociology.northwestern.edu/)  and the [Observatoire du changement social](https://www.sciencespo.fr/osc/en) at [Sciences Po Paris](https://www.sciencespo.fr/en).
+Post-doc at the [Max Planck Institute for demographic research](https://demogr.mpg.de/)([Laboratory of Digital and Computational Demography](https://demogr.mpg.de/en/research_6120/digital_and_computational_demography_5555/))
+
+Ph.D. in sociology from [Northwestern University](https://www.sociology.northwestern.edu/)  and the [Observatoire du changement social](https://www.sciencespo.fr/osc/en) at [Sciences Po Paris](https://www.sciencespo.fr/en).
 
 ## Publications
 
