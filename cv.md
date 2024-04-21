@@ -4,13 +4,15 @@ title: CV
 permalink: /CV/
 ---
 
-Post-doc at the [Max Planck Institute for demographic research](https://www.demogr.mpg.de/) ([Laboratory of Digital and Computational Demography](https://www.demogr.mpg.de/en/research_6120/digital_and_computational_demography_5555/)).
+Post-doc at the [Max Planck Institute for demographic research](https://www.demogr.mpg.de/) ([Department of Digital and Computational Demography](https://www.demogr.mpg.de/en/research_6120/digital_and_computational_demography_5555/)).
 
 Ph.D. in sociology from [Northwestern University](https://www.sociology.northwestern.edu/)  and the [Observatoire du changement social](https://www.sciencespo.fr/osc/en) at [Sciences Po Paris](https://www.sciencespo.fr/en).
 
 ## Publications
 
 _Peer-reviewed_
+
+Wenqing Qian, **Ole Hexel**, Emilio Zagheni, Ridhi Kashyap, Ingmar Weber. 2023. ["Demographic inequalities in digital spaces in China: the case of Weibo."](https://workshop-proceedings.icwsm.org/abstract.php?id=2023_01) Workshop Proceedings of the 17th International AAAI Conference on Web and Social Media. DOI: 10.36190/2023.01.
 
 Lincoln Quillian, Devah Pager, Anthony Heath, Arnfinn H. Midtbøen, Fenella Fleischmann, **Ole Hexel**. 2019. ["Do Some Countries Discriminate More than Others? Evidence from 97 Field Experiments of Racial Discrimination in Hiring,"](https://www.sociologicalscience.com/articles-v6-18-467/) _Sociological Science_, 6: 467-496.
 
