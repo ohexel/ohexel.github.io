@@ -12,13 +12,14 @@ Ph.D. in sociology from [Northwestern University](https://www.sociology.northwes
 
 _Peer-reviewed_  
 Wenqing Qian, **Ole Hexel**, Emilio Zagheni, Ridhi Kashyap, Ingmar Weber. 2023. ["Demographic inequalities in digital spaces in China: the case of Weibo."](https://workshop-proceedings.icwsm.org/abstract.php?id=2023_01) Workshop Proceedings of the 17th International AAAI Conference on Web and Social Media. DOI: 10.36190/2023.01.  
-    We collected counts of Weibo users according to age, sex, and location from the Weibo advertisement API (where Weibo tells advertisers how many daily/monthly users it thinks it has). Then we compared it with the demographics of the corresponding administrative units. Weibo users tend to be more educated, more often women, and generally younger, than the surrounding population. Weibo usage is also much higher in more populated districts.
+
+    We collected counts of Weibo users according to age, sex, and location from the Weibo advertisement API (where Weibo tells advertisers how many daily/monthly users it thinks it has). Then we compared it with the demographics of the corresponding administrative units. Weibo users tend to be more educated, more often women, and generally younger, than the surrounding population. Weibo usage is also much higher in more populated districts.
 
 Lincoln Quillian, Devah Pager, Anthony Heath, Arnfinn H. Midtbøen, Fenella Fleischmann, **Ole Hexel**. 2019. ["Do Some Countries Discriminate More than Others? Evidence from 97 Field Experiments of Racial Discrimination in Hiring,"](https://www.sociologicalscience.com/articles-v6-18-467/) _Sociological Science_, 6: 467-496.
 
 Lincoln Quillian, Devah Pager, **Ole Hexel**, Arnfinn H. Midtbøen. 2017. ["Meta-analysis of field experiments shows no change in racial discrimination in hiring over time."](https://doi.org/10.1073/pnas.1706255114) _Proceedings of the National Academy of Science_, vol. 114, no. 41, 10870-10875.
 
-    We conducted a meta-analysis of field experiments of racial discrimination in hiring. We found that discrimination against African-Americans in the United States has not changed since 1990 (PNAS article). We also compared discrimination across nine countries (Sociological Science article). We found evidence for discrimination in all countries and against five different minority groups.
+    We conducted a meta-analysis of field experiments of racial discrimination in hiring. We found that discrimination against African-Americans in the United States has not changed since 1990 (PNAS article). We also compared discrimination across nine countries (Sociological Science article). We found evidence for discrimination in all countries and against five different minority groups.
 
 _Edited_  
 Aschauer, Lucia, Aurélie Cachera, Jawad Daheur, Hélène Floréa, Elisabeth Hamm, Sarah Haßdenteufel, **Ole Hexel**, Pauline Pujo, and Daniel Rakovsky, eds. 2019. “Special Issue: La Nature mise en Scène/Naturinszenierungen," [_Trajectoires_](https://journals.openedition.org/trajectoires/2675) 12.
