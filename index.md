@@ -4,8 +4,8 @@ layout: home
 _Recently_  
 I presented work on simulating inheritances using survey data and
 microsimulations at the [2024 annual meeting of the Population Association of America](https://www.populationassociation.org/paa2024/home). 
-You can find the slides [here](files/paa2024_hexel.pdf) and the working paper
- ~~here~~ (waiting for the link to work).
+You can find the slides [here](files/paa2024_hexel.pdf) and the working paper 
+[here](https://dx.doi.org/10.4054/MPIDR-WP-2024-008) (DOI:10.4054/MPIDR-WP-2024-008).
 
 With [Wenqing Qian](https://conchaespina.github.io/) (and [a](https://www.sociology.ox.ac.uk/people/ridhi-kashyap)
 [few](https://www.demogr.mpg.de/en/about_us_6113/staff_directory_1899/emilio_zagheni_2243)
