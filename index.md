@@ -7,7 +7,7 @@ You can find the slides [here](files/paa2024_hexel.pdf) and the working paper [h
 
 With [Wenqing Qian](https://conchaespina.github.io/) (and [a](https://www.sociology.ox.ac.uk/people/ridhi-kashyap) [few](https://www.demogr.mpg.de/en/about_us_6113/staff_directory_1899/emilio_zagheni_2243) [others](https://ingmarweber.de/)), we published our research on how Weibo's audience demographics (as Weibo understands them) compare to the districts ~~they live in~~ Weibo localizes them in: ["Demographic inequalities in digital spaces in China: the case of Weibo."](https://workshop-proceedings.icwsm.org/abstract.php?id=2023_01)
 
-Wenqing is a Ph.D. student in the Michigan Program of Survey and Data Science. You should follow her.
+Wenqing is a Ph.D. student at the University of Michigan. You should follow her.
 
 _About me_  
 I am a research scientist at the [Max Planck Institute for Demographic Research](https://www.demogr.mpg.de/) in the [Department of Digital and Computational Demography](https://www.demogr.mpg.de/en/research_6120/digital_and_computational_demography_5555/).
