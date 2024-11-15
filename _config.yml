@@ -1,8 +1,11 @@
 title: Ole Hexel
-description: Post-doc at the Max Planck Institute for demographic research
+description: Research scientist at the Max Planck Institute for demographic research
 email: lastname [at] demogr [dot] mpg [dot] de [dot] junk
-twitter_username: olhxl
+orcid: 0000-0002-5862-9229   
 github_username: ohexel
+bluesky_username: olhxl.bsky.social  
+mastodon_username: @oxl@mastodon.social
+twitter_username: olhxl
 baseurl: "/"
 theme: minima
 plugins: 
