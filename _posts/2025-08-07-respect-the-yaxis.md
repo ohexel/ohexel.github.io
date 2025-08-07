@@ -1,6 +1,7 @@
-# Bernie’s prices
-Ole Hexel
-2025-08-07
+---
+title: Respect the Y-axis
+author: Ole Hexel
+---
 
 Bernie put his foot in it with [this
 tweet](https://x.com/BernieSanders/status/1953127666153820382):
@@ -28,7 +29,7 @@ it costs between eight and nine years of wages.
 Of course, 2025 houses are not the same as 1965 houses. Everyone knows
 that millenials are entitled brats who consider 5 bedrooms, a jacuzzi,
 and an avocado orchard the bare minimum, while their grandparents were
-hardworking modest Jills and Joes who were content with a one-bedroom
+humble hardworking Jills and Joes who were content with a one-bedroom
 shoe box.
 
 I did find some data on prices per square feet. Unfortunately, it only
@@ -74,19 +75,19 @@ Looking at some FRED time series, it seems that something happened in
 2020. Listed houses are on average 100 feet (5%) smaller after than
 before but prices did not drop proportionately.
 
-![Housing Inventory: Median Home Size in Square Feet in the United
-States
-[(MEDSQUFEEUS)](https://fred.stlouisfed.org/series/MEDSQUFEEUS)](../files/size.png)
+![Median listed home size](../files/size.png)
 
-![Housing Inventory: Median Listing Price in the United States
-[(MEDLISPRIUS)](https://fred.stlouisfed.org/series/MEDLISPRIUS)](../files/listingprice.png)
+![Median listing prices](../files/listingprice.png)
 
-![Housing Inventory: Median Listing Price per Square Feet in the United
-States
-[(MEDLISPRIPERSQUFEEUS)](https://fred.stlouisfed.org/series/MEDLISPRIPERSQUFEEUS)](../files/feetprice.png)
+![Median listing price per square feet](../files/feetprice.png)
+
+FRED series:
+
+- Housing Inventory: Median Home Size in Square Feet in the United States [(MEDSQUFEEUS)](https://fred.stlouisfed.org/series/MEDSQUFEEUS)
+- Housing Inventory: Median Listing Price in the United States [(MEDLISPRIUS)](https://fred.stlouisfed.org/series/MEDLISPRIUS)
+- Housing Inventory: Median Listing Price per Square Feet in the United States [(MEDLISPRIPERSQUFEEUS)](https://fred.stlouisfed.org/series/MEDLISPRIPERSQUFEEUS)
 
 # To disinflate or not to disinflate
-
 The FRED series an sales prices and weekly earnings are in nominal
 dollars, but people on the internet love adjusting for inflation. I
 don’t think it matters in this case. If we take the ratio of prices to

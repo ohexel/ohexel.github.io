@@ -5,7 +5,6 @@ orcid: 0000-0002-5862-9229
 github_username: ohexel
 bluesky_username: olhxl.bsky.social  
 mastodon_username: at oxl at mastodon.social
-twitter_username: olhxl
 baseurl: "/"
 theme: minima
 plugins: 
