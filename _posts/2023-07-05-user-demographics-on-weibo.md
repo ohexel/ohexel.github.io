@@ -111,9 +111,6 @@ urbanized, educated, or prosperous a prefecture is.
 
 ### So what?
 
-# Mastodon
-
-
 There are plenty of opportunities to dig deeper. 
 
 First, prefecture populations range from 90 thousand to 26 million. Weibo data is available at the district level too. But data on education, income, etc. at this level are reported only incompletely and inconsistently. Collecting and opening up complete and harmonized socio-economic data at the district level would be a great contribution to the research community in and of itself.
