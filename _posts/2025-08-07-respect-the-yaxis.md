@@ -59,12 +59,9 @@ Nonsupervisory Employees, Total Private”
 FRED figures, it’s hard to see anything informative. And, no, houses did
 not cost \$0 before 1965. The first observation is \$17,800 for Q1 1963.
 
-![Median Sales Price of Houses Sold for the United States”
-([MSPUS](https://fred.stlouisfed.org/series/MSPUS))](../files/houses.png)
+![](../files/houses.png)
 
-![Average Weekly Earnings of Production and Nonsupervisory Employees,
-Total Private
-([CES0500000030](https://fred.stlouisfed.org/series/CES0500000030))](../files/wages.png)
+![](../files/wages.png)
 
 As mentioned above, we would prefer to compare earnings to prices per
 square feet. During the period 2016-2025, the latter rose faster than
