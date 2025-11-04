@@ -68,8 +68,8 @@ square feet. During the period 2016-2025, the latter rose faster than
 the former and you now get an entire square foot less for a week’s
 earnings.
 
-Looking at some FRED time series, it seems that something happened in
-2020. Listed houses are on average 100 feet (5%) smaller after than
+Looking at some FRED time series, it seems that something happened in 
+2020\. Listed houses are on average 100 feet (5%) smaller after than 
 before but prices did not drop proportionately.
 
 ![Median listed home size](../files/size.png)
