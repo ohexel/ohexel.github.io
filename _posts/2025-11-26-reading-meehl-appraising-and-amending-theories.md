@@ -1,7 +1,7 @@
-Reading Meehl's 'Appraising and Amending Theories'
-==================================================
-2025-11-26 12:00:00 -5000
-
+---
+title: Reading Meehl (1990) "Appraising and Amending Theories"
+author: Ole Hexel
+---
 Appraising and Amending Theories: The Strategy of Lakatosian Defense and Two Principles That Warrant It  
 Paul E. Meehl (1990).  
 _Psychological Inquiry_, 1(2), 108-141  
@@ -85,7 +85,7 @@ One risk is that we introduce new constructs into _A_<sub>t</sub> as we adjust _
 
 ## "Money in the bank" a.k.a. the "track record" principle a.k.a the Serlin-Lapsley principle
 
-![WWW Money in the Bank logo](../files/resize_mitb.jpeg "Don't do this at home")
+![WWW Money in the Bank logo](../files/resize_mitb.png "Don't do this at home")
 
 While our theories are almost certainly incomplete and false in the literal sense, they may be "good enough." For example, the current most precise and explicit theory of the physical and chemical processes making up our sun will likely turn out to be missing some parts and have some parameters wrong (at some level of precision). Does that mean it's wrong? Does that mean it's wrong to say that the sun is a big ball of hot gas, mostly hydrogen? Does that mean it's no better than the theories that the sun is a glowing gigantic iron cannonball (Anaxagoras) or the chariot of the sun god? (Meehl's examples)
 
@@ -93,7 +93,7 @@ Good enough means "having enough verisimilitude to warrant continued effort and 
 
 ### What the Stephen is verisimilitude? 
 
-![Screenshot of Stephen Colbert explaining truthiness](../files/resize_truthiness.jpeg "Truth that comes from the gut, not books. Stephen Colbert, American philosopher")
+![Screenshot of Stephen Colbert explaining truthiness](../files/resize_truthiness.png "Truth that comes from the gut, not books. Stephen Colbert, American philosopher")
 
 For the long version, read the section intitled "Excursus: The Concept of Verisimilitude." The short of it is that we basically never think of a theory as completely true or false. We have an intuitive sense for the "truthiness" of a theory. Meehl gives the example of a newspaper account of a car accident. If the account gets everything right except for the middle name of one of the drivers, we would not call the account "false." If it gets a driver's entire name and the name of the street wrong, we might think it poor journalistic craftsmanship but still somewhat true. Similarly, because a theory consists of so many different things (entities, relationships, functional forms, parameters), some of these can be wrong or inaccurate in different ways without us thinking that the theory is entirely without merit. 
 
@@ -112,7 +112,7 @@ Why do they generate so few damn strange coincidences?
 
 Because of the _crud factor_. Duhduhduhhhhhhh...
 
-![Ball of yarn](../files/resize_yarn.jpeg "This is your DAG on crud")
+![Ball of yarn](../files/resize_yarn.png "This is your DAG on crud")
 
 The _crud factor_: "Everything is correlated with everything, more or less." (p. 123) Meehl thinks that this is obvious to anyone with more than cursory experience with social science research.  As an illustration, he talks about his experience with the the Minnesota Multiphasic Personality Inventory (MMPI). The long version of this is in Meehl 1990 [[2]](#2) (Section "6. Crud factor", Why summaries of research on psychological theories are often uninterpretable Psychological reports, 66, 195-244):
 
