@@ -164,7 +164,7 @@ _Multiverse analyses_. Multiverse analyses were developed, afaik, as a counter t
 
 _Regularized effect sizes_. I wonder what Meehl thought off Cohen's _d_ and similar efforts. I didn't google it and I think it could be cool to think through it before doing so. Since most of these use some measure of the variability in the sample, I am tempted to say that Meehl would say that they are slightly besides the point. But he talks about the error not the effect estimate. If we extend his point, I would suspect that he would insist on substantive over statistical significance and the importance to find some appropriate loss function (e.g. an effect of this size translates into real-world effects of this much life expectancy gained for this amount of investment).
 
-_Type S and M errors_. Andrew Gelman and John Carlin [[4]](#4) suggested that when assessing a corpus of studies in light of file drawer problems or replication efforts or when doing ex ante power calculations for a studies, we should not focus on type I and II errors but on type _S_ and _M_ errors. _S_ means we get the size wrong and _M_ means we get the magnitude wrong. 
+_Type S and M errors_. Andrew Gelman and John Carlin [[4]](#4) suggested that when assessing a corpus of studies in light of file drawer problems or replication efforts or when doing ex ante power calculations for a studies, we should not focus on type I and II errors but on type _S_ and _M_ errors. _S_ means we get the sign wrong and _M_ means we get the magnitude wrong. 
 
 
 # Bonus: Is It _Ever_ Correct to Use Null-Hypothesis Significance Tests?
