@@ -5,7 +5,7 @@ author: Ole Hexel
 Appraising and Amending Theories: The Strategy of Lakatosian Defense and Two Principles That Warrant It  
 Paul E. Meehl (1990).  
 _Psychological Inquiry_, 1(2), 108-141  
-https://doi.org/10.1207/s15327965pli0102\_1
+[https://doi.org/10.1207/s15327965pli0102\_1](https://doi.org/10.1207/s15327965pli0102_1) ([pdf on UMN's Meehl memorial website](https://meehl.umn.edu/sites/meehl.umn.edu/files/files/147appraisingamending.pdf)
 
 # The very short of it
 When a theory's predictions fail, we have to decide whether to abandon the theory wholesale or to fiddle with some secondary elements in order to save it. How do we decide whether it's worth the trouble and which parts to change? It's worth when the theory has previously made precise and unexpected predictions. Changes are admissible when they concern non-core parts and when they are derived from the core parts and they result in new predictions that pass new empirical tests. Social sciences have a hard time generating "worthy" theories because their predictions are usually neither precise nor unexpected. This is due to the crud factor and an inappropriate use of significance tests. Social scientists should abandon null hypothesis significance tests of directional predictions (dy/dx > 0), try to generate predictions that are better than directional without being point predictions (e.g. ranges or functional form), and focus on deriving consequences from numerical agreements arrived at from qualitatively diverse observational avenues.
