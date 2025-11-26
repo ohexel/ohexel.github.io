@@ -86,7 +86,7 @@ One risk is that we introduce new constructs into _A_<sub>t</sub> as we adjust _
 ## "Money in the bank" a.k.a. the "track record" principle a.k.a the Serlin-Lapsley principle
 
 <p>
-    <img src="../files/resize_mitb.png" alt="WWE Money in the Bank logo">
+    <img src="/files/resize_mitb.png" alt="WWE Money in the Bank logo">
     <em>What we all crave</em>
 </p>
 
@@ -97,7 +97,7 @@ Good enough means "having enough verisimilitude to warrant continued effort and 
 ### What the Stephen is verisimilitude? 
 
 <p>
-    <img src="../files/resize_truthiness.png" alt="Screenshot of Stephen Colbert explaining truthiness">
+    <img src="/files/resize_truthiness.png" alt="Screenshot of Stephen Colbert explaining truthiness">
     <em>"Truth that comes from the gut, not books. Stephen Colbert, American philosopher"</em>
 </p>
 
@@ -119,7 +119,7 @@ Why do they generate so few damn strange coincidences?
 Because of the _crud factor_. Duhduhduhhhhhhh...
 
 <p>
-    <img src="../files/resize_yarn.png" alt="Ball of yarn">
+    <img src="/files/resize_yarn.png" alt="Ball of yarn">
     <em>This is your DAG on crud</em>
 </p>
 
