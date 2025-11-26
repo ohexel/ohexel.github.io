@@ -5,7 +5,7 @@ author: Ole Hexel
 Appraising and Amending Theories: The Strategy of Lakatosian Defense and Two Principles That Warrant It  
 Paul E. Meehl (1990).  
 _Psychological Inquiry_, 1(2), 108-141  
-[https://doi.org/10.1207/s15327965pli0102\_1](https://doi.org/10.1207/s15327965pli0102_1) ([pdf on UMN's Meehl memorial website](https://meehl.umn.edu/sites/meehl.umn.edu/files/files/147appraisingamending.pdf)
+[https://doi.org/10.1207/s15327965pli0102\_1](https://doi.org/10.1207/s15327965pli0102_1) ([pdf, UMN Meehl website](https://meehl.umn.edu/sites/meehl.umn.edu/files/files/147appraisingamending.pdf))
 
 # The very short of it
 When a theory's predictions fail, we have to decide whether to abandon the theory wholesale or to fiddle with some secondary elements in order to save it. How do we decide whether it's worth the trouble and which parts to change? It's worth when the theory has previously made precise and unexpected predictions. Changes are admissible when they concern non-core parts and when they are derived from the core parts and they result in new predictions that pass new empirical tests. Social sciences have a hard time generating "worthy" theories because their predictions are usually neither precise nor unexpected. This is due to the crud factor and an inappropriate use of significance tests. Social scientists should abandon null hypothesis significance tests of directional predictions (dy/dx > 0), try to generate predictions that are better than directional without being point predictions (e.g. ranges or functional form), and focus on deriving consequences from numerical agreements arrived at from qualitatively diverse observational avenues.
@@ -28,7 +28,7 @@ Here I try to summarize the central argument. Hopefully, you will find it easier
 
 The starting paradox is this: In the physical sciences, greater statistical power (better instruments or experimental design, more observations) makes it _harder_ to pass significance tests (it becomes easier to detect differences between the measured and the predicted quantity); in the social sciences, greater statistical power makes it _easier_ to pass significance tests (it becomes easier to reject _H_<sub>0</sub> = "there is no effect").
 
-This creates the social scientist's dilemma: either perform the null ritual (pretend that "A causes B" is equivalent to dy/dx > 0; pretend that anyone believes _H_<sub>0</sub>: dy/dx = 0; show that _p(data|H_<sub>0</sub>_)_<0.05; claim [implicitly] "this shows that A causes B") or give up on improving our understanding of the world and get a job increasing ad revenue for billionaires.
+This creates the social scientist's dilemma: either perform the null ritual (pretend that "A causes B" is equivalent to dy/dx > 0; pretend that anyone believes _H_<sub>0</sub>: dy/dx = 0; show that _p(data\|H_<sub>0</sub>_)_<0.05; claim [implicitly] "this shows that A causes B") or give up on improving our understanding of the world and get a job increasing ad revenue for billionaires.
 
 The less flippant version of the dilemma is: "everything is correlated with everything" (the crud factor, see below); we do not have theories strong enough to generate predictions beyond dy/dx > 0; crud factor & dy/dx > 0 => many, many nonsense theories will pass significance tests. 
 
@@ -85,7 +85,10 @@ One risk is that we introduce new constructs into _A_<sub>t</sub> as we adjust _
 
 ## "Money in the bank" a.k.a. the "track record" principle a.k.a the Serlin-Lapsley principle
 
-![WWW Money in the Bank logo](../files/resize_mitb.png "Don't do this at home")
+<p>
+    <img src="../files/resize_mitb.png" alt="WWE Money in the Bank logo">
+    <em>What we all crave</em>
+</p>
 
 While our theories are almost certainly incomplete and false in the literal sense, they may be "good enough." For example, the current most precise and explicit theory of the physical and chemical processes making up our sun will likely turn out to be missing some parts and have some parameters wrong (at some level of precision). Does that mean it's wrong? Does that mean it's wrong to say that the sun is a big ball of hot gas, mostly hydrogen? Does that mean it's no better than the theories that the sun is a glowing gigantic iron cannonball (Anaxagoras) or the chariot of the sun god? (Meehl's examples)
 
@@ -93,7 +96,10 @@ Good enough means "having enough verisimilitude to warrant continued effort and 
 
 ### What the Stephen is verisimilitude? 
 
-![Screenshot of Stephen Colbert explaining truthiness](../files/resize_truthiness.png "Truth that comes from the gut, not books. Stephen Colbert, American philosopher")
+<p>
+    <img src="../files/resize_truthiness.png" alt="Screenshot of Stephen Colbert explaining truthiness">
+    <em>"Truth that comes from the gut, not books. Stephen Colbert, American philosopher"</em>
+</p>
 
 For the long version, read the section intitled "Excursus: The Concept of Verisimilitude." The short of it is that we basically never think of a theory as completely true or false. We have an intuitive sense for the "truthiness" of a theory. Meehl gives the example of a newspaper account of a car accident. If the account gets everything right except for the middle name of one of the drivers, we would not call the account "false." If it gets a driver's entire name and the name of the street wrong, we might think it poor journalistic craftsmanship but still somewhat true. Similarly, because a theory consists of so many different things (entities, relationships, functional forms, parameters), some of these can be wrong or inaccurate in different ways without us thinking that the theory is entirely without merit. 
 
@@ -112,7 +118,10 @@ Why do they generate so few damn strange coincidences?
 
 Because of the _crud factor_. Duhduhduhhhhhhh...
 
-![Ball of yarn](../files/resize_yarn.png "This is your DAG on crud")
+<p>
+    <img src="../files/resize_yarn.png" alt="Ball of yarn">
+    <em>This is your DAG on crud</em>
+</p>
 
 The _crud factor_: "Everything is correlated with everything, more or less." (p. 123) Meehl thinks that this is obvious to anyone with more than cursory experience with social science research.  As an illustration, he talks about his experience with the the Minnesota Multiphasic Personality Inventory (MMPI). The long version of this is in Meehl 1990 [[2]](#2) (Section "6. Crud factor", Why summaries of research on psychological theories are often uninterpretable Psychological reports, 66, 195-244):
 
