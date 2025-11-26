@@ -108,7 +108,7 @@ Good enough means "having enough verisimilitude to warrant continued effort and 
 
 <p>
     <img src="/files/resize_truthiness.png" alt="Screenshot of Stephen Colbert explaining truthiness">
-    <em>"Truth that comes from the gut, not books. Stephen Colbert, American philosopher"</em>
+    <em>"Truth that comes from the gut, not books." Stephen Colbert, American philosopher</em>
 </p>
 
 For the long version, read the section intitled "Excursus: The Concept of Verisimilitude." The short of it is that we basically never think of a theory as completely true or false. We have an intuitive sense for the "truthiness" of a theory. Meehl gives the example of a newspaper account of a car accident. If the account gets everything right except for the middle name of one of the drivers, we would not call the account "false." If it gets a driver's entire name and the name of the street wrong, we might think it poor journalistic craftsmanship but still somewhat true. Similarly, because a theory consists of so many different things (entities, relationships, functional forms, parameters), some of these can be wrong or inaccurate in different ways without us thinking that the theory is entirely without merit. 
