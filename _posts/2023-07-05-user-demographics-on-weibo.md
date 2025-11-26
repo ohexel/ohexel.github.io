@@ -1,6 +1,8 @@
-Who are the users of Weibo?
-===========================
-2023-07-05 12:00:00 +2000
+---
+title: Who uses Weibo?
+author: Ole Hexel
+date: 2023-07-05
+---
 
 This post accompanies our recent publication: "Demographic inequalities in
 digital spaces in China: The case of Weibo" (open access:

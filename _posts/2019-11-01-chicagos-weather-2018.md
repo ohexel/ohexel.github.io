@@ -1,6 +1,8 @@
-Chicago's Weather in 2018
-================
-2019-11-01 17:00:00 -5000
+---
+title: Chicago's Weather in 2018
+author: Ole Hexel
+date: 2019-11-01
+---
 
 Inspired by [this](https://twitter.com/CedScherer/status/1170674809983905792) and because I had just learned that the Deutsche Wetterdienst (DWD; German Meteorological Service) publishes daily [weather data](https://www.dwd.de/DE/leistungen/klimadatendeutschland/klarchivtagmonat.html) going back decades, I wanted to replicate a graph I had seen some time ago.
 
